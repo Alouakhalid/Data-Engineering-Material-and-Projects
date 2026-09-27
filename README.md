@@ -320,4 +320,181 @@ Analytics / Reporting
 
 ### Project Documentation
 
-Ea
+Each project may include:
+
+* 📋 Project overview
+* 🎯 Objectives
+* 🏗️ Architecture
+* 🔄 Data pipeline
+* 🗄️ Database design
+* 🧹 Data transformations
+* 🧪 Data validation
+* 🐳 Docker configuration
+* ⚙️ Configuration
+* 📊 Results
+* 📸 Screenshots
+* 📖 Documentation
+
+---
+
+## 🧪 Hands-on Labs
+
+The repository also contains smaller labs and experiments designed to practice individual concepts.
+
+Examples:
+
+```text
+SQL Queries
+Python Data Processing
+API Data Extraction
+CSV Processing
+Database Integration
+ETL Pipelines
+Airflow DAGs
+Spark Jobs
+Kafka Streaming
+Dockerized Pipelines
+```
+
+---
+
+## 📊 Data Engineering Principles
+
+Throughout the repository, the focus is on developing solutions that are:
+
+* **Reliable**
+* **Scalable**
+* **Maintainable**
+* **Testable**
+* **Observable**
+* **Reproducible**
+* **Well documented**
+
+---
+
+## 🔍 Data Quality
+
+Data quality is treated as an essential part of every pipeline.
+
+Examples of validation include:
+
+* Missing values
+* Duplicate records
+* Invalid data types
+* Schema validation
+* Referential integrity
+* Range validation
+* Null checks
+* Business-rule validation
+
+---
+
+## ⚙️ Engineering Practices
+
+Projects aim to follow common software engineering practices:
+
+* Clean and modular code
+* Environment variables
+* Configuration management
+* Logging
+* Error handling
+* Testing
+* Git version control
+* Documentation
+* Reproducible environments
+* Containerization where appropriate
+
+---
+
+## 🐳 Docker
+
+Docker is used where appropriate to create reproducible development environments.
+
+Typical architecture:
+
+```text
+┌──────────────────────────┐
+│        Application       │
+├──────────────────────────┤
+│        Airflow           │
+├──────────────────────────┤
+│       PostgreSQL         │
+├──────────────────────────┤
+│          Kafka           │
+├──────────────────────────┤
+│         Spark            │
+└──────────────────────────┘
+```
+
+---
+
+## 📈 Learning Progress
+
+| Area             |     Status     |
+| ---------------- | :------------: |
+| Python           | 🟡 In Progress |
+| SQL              | 🟡 In Progress |
+| Databases        | 🟡 In Progress |
+| Data Processing  | 🟡 In Progress |
+| ETL / ELT        | 🟡 In Progress |
+| Data Warehousing | 🟡 In Progress |
+| Apache Airflow   |    ⚪ Planned   |
+| Apache Spark     |    ⚪ Planned   |
+| Apache Kafka     |    ⚪ Planned   |
+| Docker           |    ⚪ Planned   |
+| Cloud            |    ⚪ Planned   |
+
+> This section will be updated as the repository evolves.
+
+---
+
+## 📖 Resources
+
+Additional learning resources, references, documentation, and useful materials are collected in the `resources/` directory.
+
+---
+
+## 🔄 Continuous Development
+
+This repository is continuously evolving as new concepts, technologies, experiments, and projects are added.
+
+The focus is not only on learning **what** Data Engineering tools do, but also on understanding **why**, **when**, and **how** to use them in practical systems.
+
+---
+
+## 🎯 Goals
+
+The main goals of this repository are to:
+
+1. Build a strong foundation in Data Engineering.
+2. Understand modern data architectures.
+3. Develop practical data pipelines.
+4. Work with real-world datasets.
+5. Practice distributed data processing.
+6. Understand orchestration and automation.
+7. Build production-oriented projects.
+8. Document the learning process and engineering decisions.
+
+---
+
+## 🤝 Contributions
+
+This repository is primarily a personal learning and project space.
+
+Suggestions, discussions, and improvements are welcome.
+
+If you find an issue or have a useful suggestion, feel free to open an **Issue** or **Pull Request**.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** unless otherwise specified.
+
+---
+
+## ⭐ Repository Status
+
+**🚧 Actively maintained and continuously evolving.**
+
+> Learn → Build → Test → Document → Improve
