@@ -1,0 +1,17 @@
+﻿Course,Number,Hours,Phase,First Day,Last Day,Status
+Introduction to Data Engineering,1,14,Phase 1,1,3,Not started
+"Python for Data Science, AI & Development",2,24,Phase 1,4,8,Not started
+Python Project for Data Engineering,3,10,Phase 1,9,10,Not started
+Introduction to Relational Databases (RDBMS),4,16,Phase 2,11,13,Not started
+Databases and SQL for Data Science with Python,5,18,Phase 2,15,18,Not started
+Hands-on Introduction to Linux Commands and Shell Scripting,6,17,Phase 3,19,22,Not started
+Relational Database Administration (DBA),7,21,Phase 3,23,26,Not started
+"ETL and Data Pipelines with Shell, Airflow and Kafka",8,18,Phase 4,27,32,Not started
+Data Warehouse Fundamentals,9,16,Phase 5,33,36,Not started
+BI Dashboards with IBM Cognos Analytics and Google Looker,10,12,Phase 5,37,38,Not started
+Introduction to NoSQL Databases,11,18,Phase 6,39,41,Not started
+Introduction to Big Data with Spark and Hadoop,12,20,Phase 6,43,46,Not started
+Machine Learning with Apache Spark,13,16,Phase 7,47,50,Not started
+Data Engineering Capstone Project,14,18,Phase 7,51,53,Not started
+Generative AI: Elevate your Data Engineering Career,15,13,Phase 7,54,57,Not started
+Data Engineering Career Guide and Interview Preparation,16,11,Phase 8,58,60,Not started
